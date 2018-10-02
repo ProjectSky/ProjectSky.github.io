@@ -480,6 +480,7 @@
       obj.html(Math.floor(data.val) + '%')
       obj.removeClass()
       obj.addClass('progress-bar')
+	    console.log(data.val)
       if (data.val < 50)
         obj.addClass('progress-bar-danger')
       else if (data.val < 100)
