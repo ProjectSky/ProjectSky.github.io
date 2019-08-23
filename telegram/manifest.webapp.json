@@ -4,7 +4,7 @@
   "short_name": "Telegram",
   "display": "standalone",
   "theme_color": "#497495",
-  "gcm_sender_id": "122867383838",
+  "gcm_sender_id": "103953800507",
   "start_url": "./?utm_source=web_app_manifest",
   "scope": "/",
   "background_color": "#fff",
